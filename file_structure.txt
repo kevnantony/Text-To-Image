@@ -1,0 +1,51 @@
+src/
+  api/
+    t1.py
+    local_sunset_scenary.png
+    __pycache__/
+      handlers.cpython-311.pyc
+      api.cpython-311.pyc
+    app.py
+    local_purple_sky_moountains_.png
+    local_A_futuristic_cityscape_at_sunset.png
+    req.py
+    local_ai_avatar.png
+    saved_images/
+      purple_sky_moountains_.png
+      sunset_scenary.png
+      A_futuristic_cityscape_at_sunset.png
+      ai_avatar.png
+      ai_avatar_with_american_group.png
+    main.py
+    flagged/
+    api.py
+    handlers.py
+  model/
+    model_loading.py
+    __pycache__/
+      inference.cpython-311.pyc
+      handlers.cpython-311.pyc
+      api.cpython-311.pyc
+      model_loading.cpython-311.pyc
+    inference.py
+    flagged/
+  utils/
+filestr.py
+.env
+installed_packages.txt
+gradio_demo/
+  local_ai_avatar_with_american_group.png
+  dempapp.py
+  flagged/
+cdk/
+  app.py
+  flagged/
+libraries_list.py
+.vscode/
+  PythonImportHelper-v2-Completion.json
+  settings.json
+flagged/
+docker/
+  requirements.txt
+  Dockerfile
+  .dockerignore
